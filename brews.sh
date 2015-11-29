@@ -14,7 +14,7 @@ done
 # Get cask on tap
 brew tap caskroom/versions;
 
-# Get bres from casks
+# Get brews from casks
 apps=( spotify google-chrome \
 1password dropbox skype spectacle )
 for i in "${apps[@]}"
